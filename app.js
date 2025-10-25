@@ -1,1 +1,0 @@
-let para=document.getElementById()
